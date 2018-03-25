@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 
 app.use(express.static(path.join(__dirname, './public/dist')));
 
-//require('./server/views/mongoose.js');
+require('./server/views/mongoose.js');
 var routes_setter = require('./server/views/routes.js');
 routes_setter(app);
 
