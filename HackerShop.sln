@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerShop", "HackerShop\HackerShop.csproj", "{6F273BC2-AA28-47E3-A770-8746F828BD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerShop.Tests", "HackerShop.Tests\HackerShop.Tests.csproj", "{CEC68008-76B4-440E-A52F-6F07F2B980FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F273BC2-AA28-47E3-A770-8746F828BD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F273BC2-AA28-47E3-A770-8746F828BD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F273BC2-AA28-47E3-A770-8746F828BD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F273BC2-AA28-47E3-A770-8746F828BD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC68008-76B4-440E-A52F-6F07F2B980FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC68008-76B4-440E-A52F-6F07F2B980FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC68008-76B4-440E-A52F-6F07F2B980FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC68008-76B4-440E-A52F-6F07F2B980FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
