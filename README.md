@@ -1,5 +1,5 @@
 # HackerShop
 
 Frontend: AngularJS, 
-Backend: Django, 
-MySQL DB
+Backend: NodeJS, 
+Database: MongoDB
