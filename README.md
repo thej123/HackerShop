@@ -1,5 +1,5 @@
 # HackerShop
 
-AngularJS Frontend
-Django Backend
+Frontend: AngularJS, 
+Backend: Django, 
 MySQL DB
